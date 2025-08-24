@@ -14,7 +14,7 @@ Includes my favorite theme that I modified to my liking as seen in the preview.
 
 ## Support me
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/landn.thrn)  
-- 💸 [Paypal Donation](https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C)
+- 🌊 [Paypal Donation](https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C)
 
 ---
 
