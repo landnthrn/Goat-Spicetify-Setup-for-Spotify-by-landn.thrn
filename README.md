@@ -1,5 +1,5 @@
 
-![Uploading PREVIEW.gif…]()
+![PREVIEW](https://github.com/user-attachments/assets/348f6b0f-5b9b-4880-bef2-d50bcd98c2e6)
 
 # Enjoy a better Spotify with this Spicetify setup!!
 
