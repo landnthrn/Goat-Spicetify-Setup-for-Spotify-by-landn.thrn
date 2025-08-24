@@ -1,8 +1,23 @@
-# My-Spicetify-Setup-Spotify-Mods-
-Enjoy Spotify in a whole new way with my Spicetify setup!!
+# Enjoy Spotify in a whole new way with my Spicetify setup!!
 
-Import file included although I don't believe their import system really works so I attached 2 screenshots of all the import has
+Import file included although I don't believe their import system really works  
+so I attached 2 screenshots of all that the import has.
 
-Includes my favorite theme that I modified to my liking as seen in the preview
+Includes my favorite theme that I modified to my liking as seen in the preview.
 
-How to install Spicetify ~ https://spicetify.app/docs/advanced-usage/installation
+---
+
+## How to install Spicetify + all info:
+👉 [Spicetify Installation Guide](https://spicetify.app/docs/advanced-usage/installation)
+
+---
+
+## Find more of my creations on GitHub:
+🔗 [https://github.com/landnthrn?tab=repositories](https://github.com/landnthrn?tab=repositories)
+
+## Support me
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/landn.thrn)  
+- 💸 [Paypal Donation](https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C)
+
+---
+
