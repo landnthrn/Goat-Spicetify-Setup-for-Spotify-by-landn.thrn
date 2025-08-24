@@ -5,5 +5,4 @@ Import file included although I don't believe their import system really works s
 
 Includes my favorite theme that I modified to my liking as seen in the preview
 
-How to install Spicetify:
-https://spicetify.app/docs/advanced-usage/installation
+How to install Spicetify ~ https://spicetify.app/docs/advanced-usage/installation
