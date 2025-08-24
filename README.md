@@ -1,4 +1,7 @@
-# Enjoy Spotify in a whole new way with my Spicetify setup!!
+
+![Uploading PREVIEW.gif…]()
+
+# Enjoy a better Spotify with this Spicetify setup!!
 
 Import file included although I don't believe their import system really works  
 so I attached 2 screenshots of all that the import has.
