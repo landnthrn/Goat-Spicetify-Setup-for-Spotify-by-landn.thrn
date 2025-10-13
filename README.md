@@ -10,7 +10,7 @@
 
 ---
 
-## How to install Spicetify + all info:
+## How to Install Spicetify + All Info:
 👉 [Spicetify Installation Guide](https://spicetify.app/docs/advanced-usage/installation)
 
 ## Spicetify Discord  
