@@ -1,0 +1,97 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SPICETIFY COMMANDS
+\\POWERSHELL\\
+
+~~~~~~~~~~~~~~~~~
+
+APPLY THEME
+spicetify config current_theme <nameofthemefolder>          
+spicetify apply
+
+~~~~~~~~~~~~~~~~~
+
+FORCE APPLY A COLOR SCHEME YOU MODIFIED:
+spicetify config current_theme <nameofthemefolder>  
+spicetify config color_scheme <nameofcolorscheme>   
+spicetify apply
+
+~~~~~~~~~~~~~~~~~
+
+UNAPPLY A THEME
+spicetify config current_theme SpicetifyDefault
+spicetify apply
+
+~~~~~~~~~~~~~~~~~
+
+CHECK APPLIED THEME
+spicetify config current_theme
+
+~~~~~~~~~~~~~~~~~
+
+APPLY EXTENSIONS
+spicetify config extensions <nameofextension.js> 
+**(if your file is .mjs and doesnt work after applying then rename it to .js)**
+
+~~~~~~~~~~~~~~~~~
+
+UNAPPLY EXTENSION
+spicetify config extensions <nameofextension.js>-         <---- Minus sign at the end
+
+~~~~~~~~~~~~~~~~~
+
+CHECK APPLIED EXTENSIONS
+spicetify config extensions
+
+~~~~~~~~~~~~~~~~~
+
+APPLY CUSTOM APPS:
+spicetify config custom_apps <nameofcustomappfolder>
+
+~~~~~~~~~~~~~~~~~
+
+UNAPPLY CUSTOM APPS:
+spicetify config custom_apps <nameofcustomappfolder>-     <---- Minus sign at the end
+
+~~~~~~~~~~~~~~~~~
+
+CHECK APPLIED CUSTOM APPS
+spicetify config custom_apps
+
+~~~~~~~~~~~~~~~~~
+
+SPICETIFY RESET:
+spicetify restore
+spicetify backup
+spicetify config current_theme SpicetifyDefault
+spicetify apply
+
+~~~~~~~~~~~~~~~~~
+
+UNINSTALL SPICETIFY:
+spicetify restore backup apply
+
+Remove-Item "$env:APPDATA\spicetify" -Recurse -Force
+Remove-Item "$env:LOCALAPPDATA\spicetify" -Recurse -Force
+
+IF INSTALLED BY SCOOP:
+scoop uninstall spicetify
+
+TEST IF ITS GONE:
+spicetify
+
+~~~~~~~~~~~~~~~~~
+
+INSTALL SPICETIFY:
+iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
+
+then run
+
+spicetify backup apply
+
+~~~~~~~~~~~~~~~~~
+
+OTHERS:
+spicetify enable-devtools
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
