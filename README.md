@@ -16,7 +16,7 @@
 
 ## IMPORTANT NOTES
 
-- Use all the commands listed in this guide in PowerShell (no admin needed)  
+- Use all the commands listed in this guide in **PowerShell** *(no admin needed)*  
 
 - All versions of StarryNight might have a bug, may want to wait until it is properly fixed  
 
@@ -28,7 +28,7 @@
 
 - There are several ways to do it but I suggest using this  
 
-- Open PowerShell (regularly without admin)  
+- Open **PowerShell** *(regularly without admin)*  
 
 - Run the following command:  
 ```
