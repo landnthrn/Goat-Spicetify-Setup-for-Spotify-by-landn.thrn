@@ -134,6 +134,8 @@ spicetify config custom_apps history-in-sidebar
 ## NOTES
 - **Recommend to join the [Spicetify Discord](https://discord.com/invite/spicetify-842219447716151306)**
 
+- Once in a while you will have to use `spicetify apply` or `spicetify backup apply` or `spicetify update`
+
 - You can customize the Spicetify addons however you like in the marketplace  
 
 - There is also a `Spicetify Commands.txt` included in this pack if you ever need  
