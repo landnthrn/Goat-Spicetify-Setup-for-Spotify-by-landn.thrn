@@ -117,7 +117,7 @@ spicetify config custom_apps history-in-sidebar
 
 ## IF USING THE LUCID THEME — HOW TO APPLY MY LUCID THEME SETTINGS
 
-- Once you have Lucid Theme applied you will see a tiny gear icon at the top right of Spotify — select it  
+- Once you have Lucid Theme applied, select the tiny gear icon at the top right of Spotify
 
 - In the top Settings navigation categories, scroll all the way to the right and select **Advanced**, or scroll all the way to the bottom  
 
