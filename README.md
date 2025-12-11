@@ -56,8 +56,6 @@ spicetify config current_theme <nameofthemefolder>
 spicetify apply
 ```
 
----
-
 ### FORCE APPLY A MODIFIED COLOR SCHEME *(Might need to do for StarryNight)*
 
 ```
