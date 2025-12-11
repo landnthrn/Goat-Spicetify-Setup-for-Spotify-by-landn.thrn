@@ -8,11 +8,9 @@
 
 **Simple installation guide included of course** 
 
----
 
 # HOW TO IMPLEMENT MY SPICETIFY SETUP
 
----
 
 ## IMPORTANT NOTES
 
