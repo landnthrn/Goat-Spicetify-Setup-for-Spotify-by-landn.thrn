@@ -6,7 +6,7 @@
 
 # Enjoy a better Spotify with this Spicetify setup!!
 
-**Simple installation guide included of course** 
+**Simple setup guide included of course** 
 
 
 # HOW TO IMPLEMENT MY SPICETIFY SETUP
