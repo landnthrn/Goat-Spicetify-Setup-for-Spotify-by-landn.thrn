@@ -9,7 +9,7 @@
 **Simple setup guide included of course** 
 
 
-# HOW TO IMPLEMENT MY SPICETIFY SETUP
+# HOW TO IMPLEMENT THIS SPICETIFY SETUP
 
 
 ## IMPORTANT NOTES
