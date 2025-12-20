@@ -4,7 +4,7 @@ ENJOY A BETTER SPOTIFY WITH THIS SPICETIFY SETUP!!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-HOW TO IMPLEMENT MY SPICETIFY SETUP
+HOW TO IMPLEMENT THIS SPICETIFY SETUP
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -129,8 +129,11 @@ NOTES
 
 CREDITS
 
-Spicetify:  
-https://spicetify.app  
+Spicetify Website
+https://spicetify.app
+
+Spicetify Github
+https://github.com/spicetify
 
 Lucid Theme:  
 https://projects.sanooj.uk/spicetify/lucid  
