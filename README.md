@@ -143,7 +143,9 @@ spicetify config custom_apps history-in-sidebar
 
 # CREDITS
 
-### [Spicetify](https://spicetify.app)  
+### [Spicetify Website](https://spicetify.app)  
+### [Spicetify GitHub](https://github.com/spicetify)
+
 
 ### [Lucid Theme](https://projects.sanooj.uk/spicetify/lucid)  
 
